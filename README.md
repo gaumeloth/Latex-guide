@@ -6,16 +6,16 @@
    - [Workflow con LaTeX](#workflow-con-latex)
    - [Applicazioni Comuni di LaTeX](#applicazioni-comuni-di-latex)
    - [Comunità e Supporto](#comunità-e-supporto)
-2. [Installazione di LaTeX](#installazione-di-latex) [TODO]**
-3. [Creazione del Primo Documento](#creazione-del-primo-documento) [TODO]**
-4. [Struttura di un Documento LaTeX](#struttura-di-un-documento-latex) [TODO]**
-5. [Formattazione e Stile](#formattazione-e-stile) [TODO]**
-6. [Gestione delle Formule Matematiche](#gestione-delle-formule-matematiche) [TODO]**
-7. [Gestione dei Riferimenti e della Bibliografia](#gestione-dei-riferimenti-e-della-bibliografia) [TODO]**
-8. [Personalizzazione e Estensioni](#personalizzazione-e-estensioni) [TODO]**
-9. [Risoluzione dei Problemi e Risorse Addizionali](#risoluzione-dei-problemi-e-risorse-addizionali) [TODO]**
-10. [Appendici](#appendici) [TODO]**
-11. [Indice Analitico](#indice-analitico) [TODO]**
+2. [Installazione di LaTeX](#installazione-di-latex) **[TODO]**
+3. [Creazione del Primo Documento](#creazione-del-primo-documento) **[TODO]**
+4. [Struttura di un Documento LaTeX](#struttura-di-un-documento-latex) **[TODO]**
+5. [Formattazione e Stile](#formattazione-e-stile) **[TODO]**
+6. [Gestione delle Formule Matematiche](#gestione-delle-formule-matematiche) **[TODO]**
+7. [Gestione dei Riferimenti e della Bibliografia](#gestione-dei-riferimenti-e-della-bibliografia) **[TODO]**
+8. [Personalizzazione e Estensioni](#personalizzazione-e-estensioni) **[TODO]**
+9. [Risoluzione dei Problemi e Risorse Addizionali](#risoluzione-dei-problemi-e-risorse-addizionali) **[TODO]**
+10. [Appendici](#appendici) **[TODO]**
+11. [Indice Analitico](#indice-analitico) **[TODO]**
 
 # Introduzione a LaTeX: Un Sistema Avanzato per la Creazione di Documenti
 
@@ -62,3 +62,55 @@ LaTeX è ampiamente utilizzato per una vasta gamma di documenti accademici e pro
 La comunità di utenti e sviluppatori di LaTeX è vasta e attiva, contribuendo a una ricca collezione di pacchetti, tutorial e [forum di supporto](https://tex.stackexchange.com/). Questa comunità è una risorsa preziosa per gli utenti di LaTeX di tutti i livelli di esperienza.
 
 Con questa introduzione, miriamo a fornire una comprensione solida di cosa sia LaTeX e di come possa servire come uno strumento potente per la composizione di documenti professionali. Nei capitoli successivi, esploreremo in dettaglio come iniziare con LaTeX, approfondendo la creazione di documenti, la gestione delle formule matematiche, l'uso dei pacchetti, e altre funzionalità chiave di LaTeX, fornendo una guida pratica per diventare proficienti nell'uso di questo sistema di composizione di documenti. Per ulteriori informazioni, consulta la [documentazione ufficiale di LaTeX](https://www.latex-project.org/help/documentation/).
+
+
+# Installazione di LaTeX [TODO]
+
+L'installazione di LaTeX è il primo passo per iniziare a creare documenti di alta qualità. In questa sezione, forniremo istruzioni dettagliate su come installare LaTeX su vari sistemi operativi.
+
+## Requisiti di Sistema [TODO]
+
+Prima di procedere con l'installazione, assicurarsi che il sistema soddisfi i requisiti minimi necessari per l'esecuzione di LaTeX.
+
+## Installazione su Windows [TODO]
+
+1. **Download del Software:**
+   - Scaricare l'installer di MiKTeX o TeX Live dal sito ufficiale.
+2. **Esecuzione dell'Installer:**
+   - Eseguire l'installer e seguire le istruzioni a schermo.
+3. **Installazione di un Editor di Testo:**
+   - Scegliere ed installare un editor di testo compatibile con LaTeX come TeXstudio o TeXworks.
+4. **Verifica dell'Installazione:**
+   - Creare un semplice documento LaTeX per verificare che l'installazione sia stata eseguita correttamente.
+
+## Installazione su macOS [TODO]
+
+1. **Download del Software:**
+   - Scaricare l'installer di MacTeX dal sito ufficiale.
+2. **Esecuzione dell'Installer:**
+   - ...
+3. **Installazione di un Editor di Testo:**
+   - ...
+4. **Verifica dell'Installazione:**
+   - ...
+
+## Installazione su Linux [TODO]
+
+1. **Installazione tramite il Gestore Pacchetti:**
+   - Utilizzare il gestore pacchetti della distribuzione per installare TeX Live.
+2. **Installazione di un Editor di Testo:**
+   - ...
+3. **Verifica dell'Installazione:**
+   - ...
+
+## Configurazione Iniziale [TODO]
+
+Spiegare come configurare LaTeX e l'editor di testo scelto per ottenere il massimo dalla propria installazione.
+
+## Risoluzione dei Problemi Comuni [TODO]
+
+Fornire soluzioni a problemi comuni che possono verificarsi durante l'installazione di LaTeX.
+
+## Riferimenti e Risorse Addizionali [TODO]
+
+Fornire collegamenti a risorse esterne, forum, e documentazione per ulteriore assistenza durante il processo di installazione.
